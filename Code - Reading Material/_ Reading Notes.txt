@@ -1,0 +1,113 @@
+Reading Notes
+-------------
+Every one of these books are free online, most of them contained here in this folder, but feel free to buy the paper copy if it helps you better comprehend.
+
+
+## Eloquent JavaScript
+
+	- Availability:
+		- Eloquent JavaScript 3rd Edition.pdf
+		- https://eloquentjavascript.net/
+		- Borrow my copy
+		- Paperback, about $25
+	- Notes
+		Our first semester was roughly based on this book, and we already did some of the exercises in the chapters, so I hope that most of this reading will be review and you can skim for new information. You aren't required to code along to the examples in the book.
+	- Read the first five chapters, about 80 pages:
+		- Introduction
+		- Values, Types, and Operators
+		- Program Structure
+		- Functions
+		- Data Structures: Objects and Arrays
+	- Report
+		A sentence or paragraph on something new you learned for each chapter
+
+
+## Programming JavaScript Applications
+
+	- Aailability:
+		- Programming JavaScript Applications - Eric Elliott.pdf
+		- Available to download legally in various places online
+		- Paperback, about $33
+	- Notes
+		A very advanced book that goes very quickly over what we've learned with a lot of code samples.
+	- Read the first 3 chapters, about 70 pages
+		- Preface
+		- Chapter 1: The JavaScript Revolution
+		- Chapter 2: Functions
+		- Chapter 3: Objects
+	- Report
+		At least two sentences on something new you learned for each chapter, it could be a long list.
+
+
+## The JavaScript Beginner's Handbook
+
+	- Availability
+		- The JavaScript Beginner's Handbook - Flavio Copes.pdf
+		- https://flaviocopes.com/page/javascript-handbook/
+	- Notes
+		A short but sweet read, and a solid language introduction that covers what we've been over and a lot more. The author uses a lot of advanced techniques and language. The text is big, but the content on each page is small; easy, yet dense.
+	- Read the entire book, about 75 pages
+	- Report
+		Make a list of the things you learned. It should be at least 20 items long.
+
+
+## Head First JavaScript Programming
+
+	- Availability
+		- Intro & sample chapter: Head First JavaScript Programming Sample.pdf
+		- Borrow my copy
+		- Paperback, about $40
+	- Notes
+		The gentlest possible introduction, whimsical and entertaining to the last, with pages that beg you to write on them. Head First books always introduce you to the best way to learn, then introduce you to great content. Unfortunately the sample they give isn't enough to catch up with everything we are doing in class, so you really need the whole book and I highly recommend a paperback (not digital) so that you can write on all the pages.
+		If you really enjoy the sample chapter included here (about 80 pages), know that you would need to read to page 227.
+	 - Read until it starts talking about HTML, about 230 pages
+		- Introduction, especially everything starting with metacognition
+		- Chapter 1: Getting Your Feet Wet
+		- Chapter 2: Going Further
+		- Chapter 3: Getting Functional
+		- Chapter 4: Arrays
+		- Chapter 5: A Trip to Objectville
+	- Report
+		Show me your work - crossword puzzles, code magnets, and other sharpen-your-pencil activities.
+		If you borrow my book, please  make copies for yourself so that you don't write in my book.
+
+
+## The JavaScript Way
+
+	- Availability
+		- The JavaScript Way.pdf
+		- https://github.com/thejsway/thejsway
+		- Paperback, about $30
+	- Notes
+		A modern and gentle approach to JavaScript. There is a lot of code in this e-book and there are a lot of small exercises to practice your skill.
+	- Read the introduction and chapter 1, about 100 pages
+		- Introduction
+		- Part I: Learn to code programs
+	- Report
+		Try all the "Coding Time!" exercises. Show me your code.
+		You will have at least one small program for every section in chapter 1, about 45 different exercises, but I need to see at least 20.
+
+
+## Mozilla JavaScript Guide
+
+	- Availability
+		- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+		- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+	- Notes
+		This is the best source of JavaScript documentation on the internet, but documentation is never easy to read. It also expects that you know some HTML. This is information more than reading, so it could come off as dry.
+	- Read the JavaScript Basics (crash course) page, AND the JavaScript Guide web site until the "Details of the object model", about 185 printed pages, including:
+		- Introduction
+		- Grammar and types
+		- Control flow and error handling
+		- Loops and iteration
+		- Functions
+		- Expressions and operators
+		- Numbers and dates
+		- Text formatting
+		- Regular expressions
+		- Indexed collections
+		- Keyed collections
+		- Working with objects
+	- Report
+		Write at least one sentence on what was interesting from each page listed above.
+
