@@ -1,9 +1,8 @@
-
-  body {
-    text-align: center;
-      min-height: 100vh;
-      background: linear-gradient(42deg, #e4e714 0%, #f50f0f 100%);
-    }
+body {
+  text-align: center;
+  min-height: 100vh;
+  background: linear-gradient(42deg, #e4e714 0%, #f50f0f 100%);
+}
 x {
   background-color: rgb(250, 250, 3);
 }
@@ -11,10 +10,5 @@ y {
   background-color: rgb(223, 49, 18);
 }
 div#puter {
-  position: absolute;
-  top: 350px;
-  right: 1100px;
-  background-color: white;
-  width: 250px;
-  height: 250px;
+  margin: 0 auto;
 }
