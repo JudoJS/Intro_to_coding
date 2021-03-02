@@ -1,11 +1,10 @@
-a {
-  background: linear-gradient(42deg, #e4e714 0%, #f50f0f 100%);
-}
-
 body {
-text-align: center;
+  text-align: center;
   min-height: 100vh;
   background: linear-gradient(42deg, #e4e714 0%, #f50f0f 100%);
+}
+nav {
+  background: linear-gradient(rgb(34, 233, 8) (purple));
 }
 div#puter {
   margin: 80px auto;
