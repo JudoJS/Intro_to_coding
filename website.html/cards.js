@@ -51,6 +51,7 @@ class Dealer {
   constructor() {
     this.newDeck();
   }
+
   newDeck() {
     this.deck = new PackOfCards().deck;
   }
